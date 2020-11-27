@@ -1,0 +1,14 @@
+C:\Users\smayo\Desktop\ProdutorConsumidorSemaforo\Projeto Principal\bin\Debug\Projeto Principal.exe.config
+C:\Users\smayo\Desktop\ProdutorConsumidorSemaforo\Projeto Principal\bin\Debug\Projeto Principal.exe
+C:\Users\smayo\Desktop\ProdutorConsumidorSemaforo\Projeto Principal\bin\Debug\Projeto Principal.pdb
+C:\Users\smayo\Desktop\ProdutorConsumidorSemaforo\Projeto Principal\obj\Debug\Projeto Principal.csprojAssemblyReference.cache
+C:\Users\smayo\Desktop\ProdutorConsumidorSemaforo\Projeto Principal\obj\Debug\Projeto Principal.csproj.CoreCompileInputs.cache
+C:\Users\smayo\Desktop\ProdutorConsumidorSemaforo\Projeto Principal\obj\Debug\Projeto Principal.exe
+C:\Users\smayo\Desktop\ProdutorConsumidorSemaforo\Projeto Principal\obj\Debug\Projeto Principal.pdb
+D:\Meus Documentos\Unifenas\4º PERÍODO\Sistemas Operacionais\ProdutorConsumidorSemaforo\Projeto Principal\bin\Debug\Projeto Principal.exe.config
+D:\Meus Documentos\Unifenas\4º PERÍODO\Sistemas Operacionais\ProdutorConsumidorSemaforo\Projeto Principal\bin\Debug\Projeto Principal.exe
+D:\Meus Documentos\Unifenas\4º PERÍODO\Sistemas Operacionais\ProdutorConsumidorSemaforo\Projeto Principal\bin\Debug\Projeto Principal.pdb
+D:\Meus Documentos\Unifenas\4º PERÍODO\Sistemas Operacionais\ProdutorConsumidorSemaforo\Projeto Principal\obj\Debug\Projeto Principal.csprojAssemblyReference.cache
+D:\Meus Documentos\Unifenas\4º PERÍODO\Sistemas Operacionais\ProdutorConsumidorSemaforo\Projeto Principal\obj\Debug\Projeto Principal.csproj.CoreCompileInputs.cache
+D:\Meus Documentos\Unifenas\4º PERÍODO\Sistemas Operacionais\ProdutorConsumidorSemaforo\Projeto Principal\obj\Debug\Projeto Principal.exe
+D:\Meus Documentos\Unifenas\4º PERÍODO\Sistemas Operacionais\ProdutorConsumidorSemaforo\Projeto Principal\obj\Debug\Projeto Principal.pdb
